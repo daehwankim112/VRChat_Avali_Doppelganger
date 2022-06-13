@@ -165,13 +165,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -181,6 +174,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -318,13 +319,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -334,6 +328,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -471,13 +473,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -487,6 +482,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -624,13 +627,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -640,6 +636,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -789,13 +793,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -805,6 +802,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -984,13 +989,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -1000,6 +998,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -1244,13 +1250,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -1260,6 +1259,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -1379,13 +1386,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -1395,6 +1395,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -1514,13 +1522,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -1530,6 +1531,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -1649,13 +1658,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -1665,6 +1667,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -1784,13 +1794,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -1800,6 +1803,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -1919,13 +1930,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -1935,6 +1939,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -2167,13 +2179,6 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  immobile: 0
-  immobileCurve:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
   gravity: 0
   gravityCurve:
     serializedVersion: 2
@@ -2183,6 +2188,14 @@ MonoBehaviour:
     m_RotationOrder: 4
   gravityFalloff: 0
   gravityFalloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  immobileType: 0
+  immobile: 0
+  immobileCurve:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
@@ -2426,7 +2439,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   launchedFromSDKPipeline: 0
   completedSDKPipeline: 0
-  blueprintId: 
+  blueprintId: avtr_9d97770c-4133-4dfa-8d9a-70f453dc0774
   contentType: 0
   assetBundleUnityVersion: 
   fallbackStatus: 1
@@ -2857,6 +2870,19 @@ MonoBehaviour:
     height: 0
     position: {x: 0, y: 0, z: 0}
     rotation: {x: 0, y: 0, z: 0, w: 1}
+--- !u!114 &1715525635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1715525621}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 229740497, guid: 4ecd63eff847044b68db9453ce219299, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  contentType: 0
 --- !u!4 &2039017397 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -3827601032051121133, guid: 04dbf6de907acfc4cb7b6fe7320c4c78,
