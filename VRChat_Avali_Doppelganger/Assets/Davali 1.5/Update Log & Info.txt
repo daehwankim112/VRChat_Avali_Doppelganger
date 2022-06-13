@@ -1,0 +1,160 @@
+Da'vali public release 1.5 created by Rai Kitamatsu for the Avali army Discord server.
+( https://www.deviantart.com/raikitamatsu + Rai Kitamatsu#0001 )
+Avali Army Discord: https://discord.gg/uXQgeUT
+
+This is a new mesh, based on the old 1.3 model. 
+
+-------------------------------------------------
+
+This model was created for use in VRChat. 
+You are allowed to use it in the following:
+
+VRChat, Beatsaber, Liv, ChilloutVR, Suva and Neos. 
+
+If you want to use it in a program/game not on this list discuss it with Dashi in the Avali Army server!
+
+This model is not to be ported to Secondlife.
+
+Do not share the download links to this model in other servers.
+
+
+-------------------------------------------------
+-------------------------------------------------
+Da'vali Update (29-04-2022)
+-------------------------------------------------
+
+This update contains the following changes. 
+
+Unity:
+
+-Replaced all Dynamic bones with Physbones and set them up.
+-Removed unused parameters.
+-Added snootboop and headpat detectors that respond to fingers and hands.
+-Puppet menus (Ears and Tail) are now fully funtional. 
+-Added a Blelele toggle.
+-Unity project has been rebuilt to avoid clashing with other avatars created by Rai Kitamatsu.
+-Added a prebuilt animation for gestures for every preset expression.
+-Hand, Finger, Foot, Torso and Head colliders have been adjusted to fit the Da'vali.
+
+Wings have dynamics but are not grabbable and do not collide. This is due to wing bone placement.
+Attempts to make the wings grabbable without moving the position of the wing bone away from the hand in blender interferes with your own hands ability to grab other Physbones as the wings bones will be in the way.
+
+Blender: 
+
+-All shapekeys have been updated/improved. 
+-More shapekeys have been added.
+-Unused hair bone removed.
+-Hair parent bone added.
+-Toe bones added. (Unrigged).
+-Ear parent bone centered.
+
+
+
+-------------------------------------------------
+-------------------------------------------------
+Da'vali Update (19-03-2021)
+-------------------------------------------------
+
+This is a small update to bring the Da'vali unity package in line with the current blend file.
+
+Unity:
+
+Da'vali FBX updated to match the latest blend file.
+Re-named a menu.
+
+-------------------------------------------------
+-------------------------------------------------
+Da'vali Update for Avatar 3.0 (12-11-2020)
+-------------------------------------------------
+
+
+
+Unity:
+
+Template scene updated for 3.0
+Poiyomi based materials now have lighting enabled by default.
+
+
+Shapekeys:
+
+Added new shapekeys. 
+This includes but is not limited to(Because I partially forgot what was new):
+-Expression: Pout Angry
+-Expression: Huh
+-Expression: Wink blep
+-Cheek puff
+-Grabby Toes
+-Grabby Toes Left
+-Grabby Toes Right
+-Wing Fold Left
+-Wing Fold Right
+-Squinty eyes
+-Lower Eyelids Up
+-Mouth Open
+
+Blush and Cry have been dropped from the list for now.
+
+Animators:
+
+Added FX animator.
+The FX animator is already set up to work with the expressions menu, Blinking(That pauses when you do any gesture that is not hand open or fist) and Gestures(Facial expressions that trigger on hand gestures). 
+
+These can be found in Assets->DavaliAssets->Animations->Controllers
+
+FX is for the Facial animation, Blinking and expression menu animations.
+
+I've dropped the two default vrc Animators in the same file.
+Gestures is for hands.
+Action is for emotes and AFK anims.
+
+
+
+Animation presets:
+
+Added preset gesture animations for:
+-Pout Angry
+-ToeGrabby
+-ToeGrabbyLeft
+-ToeGrabbyRight
+-WingsFoldLeft
+-WingsFoldRight
+-WinkBlep
+-BlepUp
+-BlepUp with lower eyelids
+
+-Ears Up and Ears Droopy have been dropped from the list for now. There are WIP files in the package but they're not the final versions.
+
+3.0 functions:
+
+Simple expressions menu has been set up. I will update it again with a more optimized menu that uses less params in the future. Clothing toggles will also be added for when the Da'vali clothing releases.
+
+
+
+If you find any bugs let me know at Rai Kitamatsu#5172 or in model-help in the Avali Army server. 
+
+
+
+Once again, Thanks to all the avali that supported the avatar during early access <3
+
+-------------------------------------------------
+-------------------------------------------------
+First Release notes:
+-------------------------------------------------
+New features include: 
+- MMD face animation support.
+- 70+ Visemes.
+- Blinking that pauses when gestures are active.
+- Preset gestures with hand animations for those without index. 
+- Preset gestures without hand animations for those with index.
+- New smoother mesh. 
+- Less materials.
+- 10 default eye colours.
+- 18 default skins. Stored in a seperate package to keep file sizes down. Skins are here: https://drive.google.com/file/d/1l8hKStXDDujWjkhu4C1goGnM2iXZiPNU/view?usp=sharing
+- Blend file, SPP and UVs.
+- Two sets of UVs. One with the feathers seperated and one with them combined to make them easier to paint.
+
+-------------------------------------------------
+-------------------------------------------------
+
+
+
