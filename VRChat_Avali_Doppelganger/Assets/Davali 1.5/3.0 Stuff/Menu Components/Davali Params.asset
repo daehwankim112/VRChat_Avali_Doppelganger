@@ -45,3 +45,7 @@ MonoBehaviour:
     valueType: 2
     saved: 1
     defaultValue: 0
+  - name: Clone
+    valueType: 2
+    saved: 1
+    defaultValue: 0

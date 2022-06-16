@@ -45,3 +45,13 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
+  - name: Clone Toggle
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Clone
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
