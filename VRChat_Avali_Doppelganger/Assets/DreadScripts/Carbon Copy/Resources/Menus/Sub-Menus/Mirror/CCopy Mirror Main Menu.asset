@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: CCopy Mirror Main Menu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: <b><color=orange>Clone Expressions</color></b>
+    icon: {fileID: 2800000, guid: 2cdac9dee0b8ae142908d1e4f151d694, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <b><color=orange>Mirror</color></b>
+    icon: {fileID: 2800000, guid: c40b15c3498064e47b01891931a99cc4, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 51052002bb3d421449e854e2dd7f4f93, type: 2}
+    subParameters: []
+    labels: []
+  - name: <b><color=orange>Quick</color></b>
+    icon: {fileID: 2800000, guid: 7c21639778fd29d4e9c387efda06e4ff, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3db4a9f28b82acc46b8d73c6d10a63eb, type: 2}
+    subParameters: []
+    labels: []
+  - name: <b><color=orange>Settings</color></b>
+    icon: {fileID: 2800000, guid: 43eaf436cb3238c4ea2f541a26f74667, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 10
+    style: 0
+    subMenu: {fileID: 11400000, guid: c231bad36f824b040b9493e87dbf66f3, type: 2}
+    subParameters: []
+    labels: []
+  - name: <b><color=orange>Mimic</color></b>
+    icon: {fileID: 2800000, guid: e8798b2442f69c34fad93f031a02c784, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 54f65f18c477ecf42876f9264a8b048e, type: 2}
+    subParameters: []
+    labels: []

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: CCopy Mirror Menu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: <b><color=orange>Scale</color></b>
+    icon: {fileID: 2800000, guid: cc981a1d59e0b8347989a7ef9ac91633, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: f293c333ecf636c4caf03e67e92c3e07, type: 2}
+    subParameters: []
+    labels: []
+  - name: <b><color=orange>Quick</color></b>
+    icon: {fileID: 2800000, guid: 7c21639778fd29d4e9c387efda06e4ff, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0d85896820a40b74cbef624d14796be6, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Vertical</color>
+    icon: {fileID: 2800000, guid: bcaf7aef01a5b394a80d450dd6502acc, type: 3}
+    type: 102
+    parameter:
+      name: CarbonCopy
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Radial</color>
+    icon: {fileID: 2800000, guid: db287ca6a090beb41a1cf6d7d520e4ba, type: 3}
+    type: 102
+    parameter:
+      name: CarbonCopy
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Standard</color>
+    icon: {fileID: 2800000, guid: 507cadcf97d4df5499d08cbe79507f6e, type: 3}
+    type: 102
+    parameter:
+      name: CarbonCopy
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

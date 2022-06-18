@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: CCopy Bind Menu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: <color=yellow>Right Hand</color>
+    icon: {fileID: 2800000, guid: 8f8ea3317291f6046bf77f530d33df1e, type: 3}
+    type: 102
+    parameter:
+      name: CarbonCopy
+    value: 68
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Right Foot</color>
+    icon: {fileID: 2800000, guid: 5ac5f87c3318c114baf4cac7599e7ef4, type: 3}
+    type: 102
+    parameter:
+      name: CarbonCopy
+    value: 70
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Hips</color>
+    icon: {fileID: 2800000, guid: e120abba4d7433041bc56d7ec69a8807, type: 3}
+    type: 102
+    parameter:
+      name: CarbonCopy
+    value: 82
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Chest</color>
+    icon: {fileID: 2800000, guid: 2230544976db0554fa3e1dc673aa7e0b, type: 3}
+    type: 102
+    parameter:
+      name: CarbonCopy
+    value: 79
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Ball</color>
+    icon: {fileID: 2800000, guid: a4a898c37ab2cd341b3b15df8d2cc7c8, type: 3}
+    type: 102
+    parameter:
+      name: CarbonCopy
+    value: 86
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Head</color>
+    icon: {fileID: 2800000, guid: c5f3d1dd670b3fd468a64e7459999511, type: 3}
+    type: 102
+    parameter:
+      name: CarbonCopy
+    value: 76
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Left Foot</color>
+    icon: {fileID: 2800000, guid: afc8dbea775395f45a198b54b7b18158, type: 3}
+    type: 102
+    parameter:
+      name: CarbonCopy
+    value: 73
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <color=yellow>Left Hand</color>
+    icon: {fileID: 2800000, guid: 40ce5d6ba5cf9e84c82cba59132ccaab, type: 3}
+    type: 102
+    parameter:
+      name: CarbonCopy
+    value: 69
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

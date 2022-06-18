@@ -1,0 +1,28 @@
+Full Documentation: https://github.com/Dreadrith/Carbon-Copy
+Carbon Copy Installation Speedrun: https://youtu.be/va1lYhfW4Jw
+Detailed Installation Tutorial: https://www.youtube.com/watch?v=TqdPVBS3s8g
+In-game Demo: https://www.youtube.com/watch?v=-uURDsdm8us
+Carbon Copy Showcase: https://www.youtube.com/watch?v=0jcRXNlDFz4
+
+Version: v1.2.7
+
+Carbon Copy by Dreadrith#3238 and JustSleightly#0001
+DreadScripts server: https://discord.gg/ZsPfrGn
+JustSleighty's server: https://discord.gg/dakrwvjDzR
+
+Q- How can I setup multiple clones?
+A- Just re-run the script! It'll automatically make each clone independent. Each clone can have its own settings!
+
+Q- Is Carbon Copy compatible with VRChat Quest Avatars?
+A- No, as VRChat Quest Avatars do not support Constraints at this time. Other clone systems are often not compatible either.
+
+Q- How do I export Carbon Copy with my commercial package?
+A- Assuming you have a commercial license for Carbon Copy, you will want to export the respective Generated Assets folder and the "Export" folder for Carbon Copy alongside the rest of your avatar package.
+You can find these generated resources at Save File Path/GeneratedAssets/. By default, this is Assets/DreadScripts/Carbon Copy/GeneratedAssets/.
+The folder for the Export can be found at Assets/DreadScripts/Carbon Copy/Export.
+
+Q- Where can I request features/make suggestions?
+A- Feel free to leave these in the #suggestions channel on DreadScripts and we can discuss them in more detail.
+
+Q- My license key isn't working! / Can I change my license's device?.
+A- Open a ticket on DreadScripts server or contact Dreadrith#3238 through Discord

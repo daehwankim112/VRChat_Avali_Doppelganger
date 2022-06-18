@@ -1,0 +1,58 @@
+(v1.2.7)
+--------
+- [Fix] Fixed issue with parameters determining free memory when applying
+- [Misc] Added "Version" to error stack trace
+
+(v1.2.6)
+--------
+- [Improvement] Force updates Descriptor Colliders before extracting colliders.
+- [Fix] Fixed the Free Memory calculation to be properly dynamic based on current SDK
+- [Fix] Ignoring Step 17.3 error due to invalid animation types. 
+
+(v1.2.5)
+--------
+- [Feature] Implemented Avatar Merging. Merge an entire Avatar as a clone with all of its functionality and Menus.
+- [Feature] Descriptor colliders and senders will be added to the clone automatically and included in PhysBones with "Allow Collision"
+- [Feature] Clone's head will automatically hide when near your own head during swap and only in local view
+- [Feature] PhysBones are now mostly supported similarly to how Dynamic Bones were
+- [Improvement] HUGE performance boost to the local user. Especially noticeable with Mirror clone.
+- [Improvement] Added force T-Pose button in proxy. In case Avatars have different poses, this will help make the clone much more accurate. Credits to Pumkin.
+- [Improvement] Better cleanup case of there being no dynamic bones
+- [Improvement] HUD should no longer appear on your camera.
+- [Fix] Fixed the Grab layer always being Write Defaults Off regardless of config
+- [Fix] Fixed Revert removing other unaffected layers
+- [Fix] Fixed error if there's no expression menu on Avatar
+- [Fix] Fixed persisting parameter on Parent Carbon Copy menu
+- [Fix] Fixed GUI breaking if the avatar becomes null
+- [Fix] Fixed No error showing up when menu's full
+- [Fix] Fixed very few clips from previous clones being affected by FX Cloning
+- [Fix] Fixed memory calculation to properly determine max memory for current SDK
+- [Misc] Removed "Multi-Clone" Button. Reminder: Multi-Clone is still supported, all you have to do is apply Carbon Copy again!
+- [Misc] Modified LipSync layer to not use AnyState
+- [Misc] Replaced "True" parameter by re-using other conditions
+- [Misc] Vertical Invert inverts PhysBones gravity but will only take effect when the clone is re-enabled.
+- [Misc] Due to the way Mirrors work. The local Head hiding causes PhysBones in the mirror to freeze.
+
+(v1.1.3)
+--------
+- [Improvement] If adding more than one clone to avatar, automatically creates a Sub-menu of added clones up to 8
+- [Improvement] Ignores and cleans up blank or duplicate parameters in Expressions Parameters
+- [Fix] Fixed Mimic not locking correctly when scale module is disabled
+- [Fix] Fixed expression menu still have scale features when scale module is disabled
+- [Misc] Generated assets target folder is now also preceded by the avatar's name
+
+(v1.1.1)
+--------
+- [Fix] Fixed HUD setup from last update which caused it to not appear in-game.
+- [Fix] Fixed the banner downloading multiple times and potentially soft locking Unity.
+- [Misc] Slightly modified avatar detection.
+
+(v1.1.0)
+--------
+- [Improvement] Multi-Clone (Suffixing) is now automatic! Just rerun the script and it'll do it automatically!
+- [Improvement] Licensing updated to be compatible with Windows 11 and can cache verify!
+- [Improvement] Made a workaround scaling for the cull fix to avoid instant Very Poor rating due to AABB bounds
+- [Improvement] Improved Dynamic Bone handler
+- [Fix] Fixed parameters disappearing in some cases
+- [Fix] Fixed error case of generating ball without full fingers
+- [Fix] Fixed Self-Render affecting clones when using multi-clone

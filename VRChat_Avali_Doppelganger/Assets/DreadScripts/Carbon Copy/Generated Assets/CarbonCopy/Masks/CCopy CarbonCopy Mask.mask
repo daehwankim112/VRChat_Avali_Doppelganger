@@ -1,0 +1,2449 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CCopy CarbonCopy Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: CCopy World Space/CarbonCopy Container
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy UI Renderer
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Left
+      leg
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Left
+      leg/Left knee
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Left
+      leg/Left knee/Left ankle
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Left
+      leg/Left knee/Left ankle/Left toe
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Left
+      leg/Left knee/Left ankle/Left toe/Left toe_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Right
+      leg
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Right
+      leg/Right knee
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Right
+      leg/Right knee/Right ankle
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Right
+      leg/Right knee/Right ankle/Right toe
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Right
+      leg/Right knee/Right ankle/Right toe/Right toe_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Root_Tail
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Root_Tail/Root_Tail_001
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002/Root_Tail_003
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002/Root_Tail_003/Root_Tail_004
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002/Root_Tail_003/Root_Tail_004/Root_Tail_005
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002/Root_Tail_003/Root_Tail_004/Root_Tail_005/Root_Tail_006
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002/Root_Tail_003/Root_Tail_004/Root_Tail_005/Root_Tail_006/Root_Tail_007
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002/Root_Tail_003/Root_Tail_004/Root_Tail_005/Root_Tail_006/Root_Tail_007/Root_Tail_007_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger3_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/Left Z_Wing_Bone_3
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/Left Z_Wing_Bone_3/Left Z_Wing_Bone_3_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L/LittleFinger3_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger3_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger3_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/Thumb0_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L/Thumb2_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left Z_Wing_Bone_2
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left Z_Wing_Bone_2/Left Z_Wing_Bone_2_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left Z_Wing_Bone_1
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left Z_Wing_Bone_1/Left Z_Wing_Bone_1_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Eye_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Eye_L/Eye_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Eye_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Eye_R/Eye_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers1_Left
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers1_Left/HeadFeathers1_Left_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers1_Right
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers1_Right/HeadFeathers1_Right_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers2
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers2/HeadFeathers2_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers3
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers3/HeadFeathers3_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers_L/HeadFeathers_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers_R/HeadFeathers_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_L/LowerEarsMid_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_L/LowerEarsMid_L/LowerEarsEnd_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_L/LowerEarsMid_L/LowerEarsEnd_L/LowerEarsEnd_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_R/LowerEarsMid_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_R/LowerEarsMid_R/LowerEarsEnd_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_R/LowerEarsMid_R/LowerEarsEnd_R/LowerEarsEnd_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_L/UpperEarsMid_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_L/UpperEarsMid_L/UpperEarsEnd_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_L/UpperEarsMid_L/UpperEarsEnd_L/UpperEarsEnd_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_R/UpperEarsMid_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_R/UpperEarsMid_R/UpperEarsEnd_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_R/UpperEarsMid_R/UpperEarsEnd_R/UpperEarsEnd_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Neck/CCopy_Head
+      Proxy
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger3_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R/LittleFinger3_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger3_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/Right Z_Wing_Bone_3
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/Right Z_Wing_Bone_3/Right Z_Wing_Bone_3_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger3_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/Thumb0_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R/Thumb2_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R/Thumb2_R/Thumb2_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right Z_Wing_Bone_2
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right Z_Wing_Bone_2/Right Z_Wing_Bone_2_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right Z_Wing_Bone_1
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right Z_Wing_Bone_1/Right Z_Wing_Bone_1_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/Body
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Point
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_PointStart
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Left
+      leg
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Left
+      leg/Left knee
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Left
+      leg/Left knee/Left ankle
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Left
+      leg/Left knee/Left ankle/Left toe
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Left
+      leg/Left knee/Left ankle/Left toe/Left toe_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Right
+      leg
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Right
+      leg/Right knee
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Right
+      leg/Right knee/Right ankle
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Right
+      leg/Right knee/Right ankle/Right toe
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Right
+      leg/Right knee/Right ankle/Right toe/Right toe_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Root_Tail
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Root_Tail/Root_Tail_001
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002/Root_Tail_003
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002/Root_Tail_003/Root_Tail_004
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002/Root_Tail_003/Root_Tail_004/Root_Tail_005
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002/Root_Tail_003/Root_Tail_004/Root_Tail_005/Root_Tail_006
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002/Root_Tail_003/Root_Tail_004/Root_Tail_005/Root_Tail_006/Root_Tail_007
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Root_Tail/Root_Tail_001/Root_Tail_002/Root_Tail_003/Root_Tail_004/Root_Tail_005/Root_Tail_006/Root_Tail_007/Root_Tail_007_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger3_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/Left Z_Wing_Bone_3
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/Left Z_Wing_Bone_3/Left Z_Wing_Bone_3_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L/LittleFinger3_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger3_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger3_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/Thumb0_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L/Thumb2_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left Z_Wing_Bone_2
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left elbow/Left Z_Wing_Bone_2/Left Z_Wing_Bone_2_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left Z_Wing_Bone_1
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Left
+      shoulder/Left arm/Left Z_Wing_Bone_1/Left Z_Wing_Bone_1_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Eye_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Eye_L/Eye_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Eye_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Eye_R/Eye_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers1_Left
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers1_Left/HeadFeathers1_Left_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers1_Right
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers1_Right/HeadFeathers1_Right_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers2
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers2/HeadFeathers2_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers3
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers3/HeadFeathers3_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers_L/HeadFeathers_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/HairParent/HeadFeathers_R/HeadFeathers_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_L/LowerEarsMid_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_L/LowerEarsMid_L/LowerEarsEnd_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_L/LowerEarsMid_L/LowerEarsEnd_L/LowerEarsEnd_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_R/LowerEarsMid_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_R/LowerEarsMid_R/LowerEarsEnd_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/LowerEars_R/LowerEarsMid_R/LowerEarsEnd_R/LowerEarsEnd_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_L/UpperEarsMid_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_L/UpperEarsMid_L/UpperEarsEnd_L
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_L/UpperEarsMid_L/UpperEarsEnd_L/UpperEarsEnd_L_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_R/UpperEarsMid_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_R/UpperEarsMid_R/UpperEarsEnd_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Neck/Head/Root_Ears/UpperEars_R/UpperEarsMid_R/UpperEarsEnd_R/UpperEarsEnd_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger3_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R/LittleFinger3_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger3_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/Right Z_Wing_Bone_3
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/Right Z_Wing_Bone_3/Right Z_Wing_Bone_3_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger3_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/Thumb0_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R/Thumb2_R
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R/Thumb2_R/Thumb2_R_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right Z_Wing_Bone_2
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right elbow/Right Z_Wing_Bone_2/Right Z_Wing_Bone_2_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right Z_Wing_Bone_1
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Armature/Hips/Spine/Chest/Right
+      shoulder/Right arm/Right Z_Wing_Bone_1/Right Z_Wing_Bone_1_end
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Scaler/CarbonCopy/World_Fix/Parent_Clone/Clone/Body
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Hips Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Hips Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Left leg Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Left leg Targets/Left leg Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Left leg Targets/Left leg Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Left leg Targets/Left knee Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Left leg Targets/Left knee Targets/Left knee Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Left leg Targets/Left knee Targets/Left knee Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Left leg Targets/Left knee Targets/Left ankle Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Left leg Targets/Left knee Targets/Left ankle Targets/Left
+      ankle Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Left leg Targets/Left knee Targets/Left ankle Targets/Left
+      ankle Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Left leg Targets/Left knee Targets/Left ankle Targets/Left
+      toe Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Left leg Targets/Left knee Targets/Left ankle Targets/Left
+      toe Targets/Left toe Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Left leg Targets/Left knee Targets/Left ankle Targets/Left
+      toe Targets/Left toe Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Right leg Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Right leg Targets/Right leg Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Right leg Targets/Right leg Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Right leg Targets/Right knee Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Right leg Targets/Right knee Targets/Right knee
+      Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Right leg Targets/Right knee Targets/Right knee
+      Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Right leg Targets/Right knee Targets/Right ankle
+      Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Right leg Targets/Right knee Targets/Right ankle
+      Targets/Right ankle Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Right leg Targets/Right knee Targets/Right ankle
+      Targets/Right ankle Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Right leg Targets/Right knee Targets/Right ankle
+      Targets/Right toe Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Right leg Targets/Right knee Targets/Right ankle
+      Targets/Right toe Targets/Right toe Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Right leg Targets/Right knee Targets/Right ankle
+      Targets/Right toe Targets/Right toe Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Spine Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Spine Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Chest Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Chest Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Neck Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Neck Targets/Neck Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Neck Targets/Neck Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Neck Targets/Head Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Neck Targets/Head Targets/Head
+      Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Neck Targets/Head Targets/Head
+      Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      shoulder Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      shoulder Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left arm Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left arm Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left elbow Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left elbow Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/Left wrist Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/Left wrist Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/Thumb0_L Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/Thumb0_L Targets/Thumb0_L
+      Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/Thumb0_L Targets/Thumb0_L
+      Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/Thumb0_L Targets/Thumb1_L
+      Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/Thumb0_L Targets/Thumb1_L
+      Targets/Thumb1_L Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/Thumb0_L Targets/Thumb1_L
+      Targets/Thumb1_L Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/Thumb0_L Targets/Thumb1_L
+      Targets/Thumb2_L Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/Thumb0_L Targets/Thumb1_L
+      Targets/Thumb2_L Targets/Thumb2_L Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/Thumb0_L Targets/Thumb1_L
+      Targets/Thumb2_L Targets/Thumb2_L Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/IndexFinger1_L Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/IndexFinger1_L Targets/IndexFinger1_L
+      Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/IndexFinger1_L Targets/IndexFinger1_L
+      Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/IndexFinger1_L Targets/IndexFinger2_L
+      Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/IndexFinger1_L Targets/IndexFinger2_L
+      Targets/IndexFinger2_L Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/IndexFinger1_L Targets/IndexFinger2_L
+      Targets/IndexFinger2_L Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/IndexFinger1_L Targets/IndexFinger2_L
+      Targets/IndexFinger3_L Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/IndexFinger1_L Targets/IndexFinger2_L
+      Targets/IndexFinger3_L Targets/IndexFinger3_L Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/IndexFinger1_L Targets/IndexFinger2_L
+      Targets/IndexFinger3_L Targets/IndexFinger3_L Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/RingFinger1_L Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/RingFinger1_L Targets/RingFinger1_L
+      Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/RingFinger1_L Targets/RingFinger1_L
+      Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/RingFinger1_L Targets/RingFinger2_L
+      Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/RingFinger1_L Targets/RingFinger2_L
+      Targets/RingFinger2_L Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/RingFinger1_L Targets/RingFinger2_L
+      Targets/RingFinger2_L Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/RingFinger1_L Targets/RingFinger2_L
+      Targets/RingFinger3_L Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/RingFinger1_L Targets/RingFinger2_L
+      Targets/RingFinger3_L Targets/RingFinger3_L Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Left shoulder Targets/Left
+      arm Targets/Left elbow Targets/Left wrist Targets/RingFinger1_L Targets/RingFinger2_L
+      Targets/RingFinger3_L Targets/RingFinger3_L Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      shoulder Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      shoulder Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right arm Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right arm Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right elbow Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right elbow Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/Right wrist Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/Right wrist Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/Thumb0_R Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/Thumb0_R Targets/Thumb0_R
+      Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/Thumb0_R Targets/Thumb0_R
+      Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/Thumb0_R Targets/Thumb1_R
+      Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/Thumb0_R Targets/Thumb1_R
+      Targets/Thumb1_R Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/Thumb0_R Targets/Thumb1_R
+      Targets/Thumb1_R Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/Thumb0_R Targets/Thumb1_R
+      Targets/Thumb2_R Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/Thumb0_R Targets/Thumb1_R
+      Targets/Thumb2_R Targets/Thumb2_R Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/Thumb0_R Targets/Thumb1_R
+      Targets/Thumb2_R Targets/Thumb2_R Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/IndexFinger1_R Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/IndexFinger1_R Targets/IndexFinger1_R
+      Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/IndexFinger1_R Targets/IndexFinger1_R
+      Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/IndexFinger1_R Targets/IndexFinger2_R
+      Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/IndexFinger1_R Targets/IndexFinger2_R
+      Targets/IndexFinger2_R Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/IndexFinger1_R Targets/IndexFinger2_R
+      Targets/IndexFinger2_R Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/IndexFinger1_R Targets/IndexFinger2_R
+      Targets/IndexFinger3_R Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/IndexFinger1_R Targets/IndexFinger2_R
+      Targets/IndexFinger3_R Targets/IndexFinger3_R Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/IndexFinger1_R Targets/IndexFinger2_R
+      Targets/IndexFinger3_R Targets/IndexFinger3_R Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/RingFinger1_R Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/RingFinger1_R Targets/RingFinger1_R
+      Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/RingFinger1_R Targets/RingFinger1_R
+      Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/RingFinger1_R Targets/RingFinger2_R
+      Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/RingFinger1_R Targets/RingFinger2_R
+      Targets/RingFinger2_R Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/RingFinger1_R Targets/RingFinger2_R
+      Targets/RingFinger2_R Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/RingFinger1_R Targets/RingFinger2_R
+      Targets/RingFinger3_R Targets
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/RingFinger1_R Targets/RingFinger2_R
+      Targets/RingFinger3_R Targets/RingFinger3_R Forward
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Targets/CarbonCopy Circle Adjust/CarbonCopy
+      Mirror Reset/CarbonCopy Vertical Reset/CarbonCopy Circle X Reset/CarbonCopy
+      Circle Z Reset/Hips Targets/Spine Targets/Chest Targets/Right shoulder Targets/Right
+      arm Targets/Right elbow Targets/Right wrist Targets/RingFinger1_R Targets/RingFinger2_R
+      Targets/RingFinger3_R Targets/RingFinger3_R Up
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Hips Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Hips Directions/Hips
+      Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Hips Directions/Hips
+      Forward YZ/Hips Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Hips Directions/Hips
+      Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Hips Directions/Hips
+      Up YZ/Hips Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Hips Pos YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Hips Pos YZ/Hips
+      Pos X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left leg Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left leg Directions/Left
+      leg Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left leg Directions/Left
+      leg Forward YZ/Left leg Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left leg Directions/Left
+      leg Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left leg Directions/Left
+      leg Up YZ/Left leg Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right leg Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right leg Directions/Right
+      leg Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right leg Directions/Right
+      leg Forward YZ/Right leg Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right leg Directions/Right
+      leg Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right leg Directions/Right
+      leg Up YZ/Right leg Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left knee Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left knee Directions/Left
+      knee Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left knee Directions/Left
+      knee Forward YZ/Left knee Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left knee Directions/Left
+      knee Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left knee Directions/Left
+      knee Up YZ/Left knee Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right knee Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right knee Directions/Right
+      knee Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right knee Directions/Right
+      knee Forward YZ/Right knee Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right knee Directions/Right
+      knee Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right knee Directions/Right
+      knee Up YZ/Right knee Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left ankle Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left ankle Directions/Left
+      ankle Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left ankle Directions/Left
+      ankle Forward YZ/Left ankle Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left ankle Directions/Left
+      ankle Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left ankle Directions/Left
+      ankle Up YZ/Left ankle Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right ankle Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right ankle Directions/Right
+      ankle Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right ankle Directions/Right
+      ankle Forward YZ/Right ankle Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right ankle Directions/Right
+      ankle Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right ankle Directions/Right
+      ankle Up YZ/Right ankle Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Spine Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Spine Directions/Spine
+      Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Spine Directions/Spine
+      Forward YZ/Spine Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Spine Directions/Spine
+      Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Spine Directions/Spine
+      Up YZ/Spine Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Chest Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Chest Directions/Chest
+      Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Chest Directions/Chest
+      Forward YZ/Chest Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Chest Directions/Chest
+      Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Chest Directions/Chest
+      Up YZ/Chest Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Neck Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Neck Directions/Neck
+      Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Neck Directions/Neck
+      Forward YZ/Neck Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Neck Directions/Neck
+      Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Neck Directions/Neck
+      Up YZ/Neck Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Head Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Head Directions/Head
+      Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Head Directions/Head
+      Forward YZ/Head Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Head Directions/Head
+      Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Head Directions/Head
+      Up YZ/Head Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left shoulder
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left shoulder
+      Directions/Left shoulder Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left shoulder
+      Directions/Left shoulder Forward YZ/Left shoulder Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left shoulder
+      Directions/Left shoulder Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left shoulder
+      Directions/Left shoulder Up YZ/Left shoulder Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right shoulder
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right shoulder
+      Directions/Right shoulder Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right shoulder
+      Directions/Right shoulder Forward YZ/Right shoulder Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right shoulder
+      Directions/Right shoulder Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right shoulder
+      Directions/Right shoulder Up YZ/Right shoulder Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left arm Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left arm Directions/Left
+      arm Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left arm Directions/Left
+      arm Forward YZ/Left arm Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left arm Directions/Left
+      arm Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left arm Directions/Left
+      arm Up YZ/Left arm Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right arm Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right arm Directions/Right
+      arm Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right arm Directions/Right
+      arm Forward YZ/Right arm Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right arm Directions/Right
+      arm Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right arm Directions/Right
+      arm Up YZ/Right arm Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left elbow Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left elbow Directions/Left
+      elbow Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left elbow Directions/Left
+      elbow Forward YZ/Left elbow Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left elbow Directions/Left
+      elbow Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left elbow Directions/Left
+      elbow Up YZ/Left elbow Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right elbow Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right elbow Directions/Right
+      elbow Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right elbow Directions/Right
+      elbow Forward YZ/Right elbow Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right elbow Directions/Right
+      elbow Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right elbow Directions/Right
+      elbow Up YZ/Right elbow Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left wrist Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left wrist Directions/Left
+      wrist Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left wrist Directions/Left
+      wrist Forward YZ/Left wrist Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left wrist Directions/Left
+      wrist Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left wrist Directions/Left
+      wrist Up YZ/Left wrist Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right wrist Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right wrist Directions/Right
+      wrist Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right wrist Directions/Right
+      wrist Forward YZ/Right wrist Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right wrist Directions/Right
+      wrist Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right wrist Directions/Right
+      wrist Up YZ/Right wrist Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left toe Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left toe Directions/Left
+      toe Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left toe Directions/Left
+      toe Forward YZ/Left toe Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left toe Directions/Left
+      toe Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Left toe Directions/Left
+      toe Up YZ/Left toe Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right toe Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right toe Directions/Right
+      toe Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right toe Directions/Right
+      toe Forward YZ/Right toe Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right toe Directions/Right
+      toe Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Right toe Directions/Right
+      toe Up YZ/Right toe Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb0_L Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb0_L Directions/Thumb0_L
+      Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb0_L Directions/Thumb0_L
+      Forward YZ/Thumb0_L Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb0_L Directions/Thumb0_L
+      Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb0_L Directions/Thumb0_L
+      Up YZ/Thumb0_L Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb1_L Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb1_L Directions/Thumb1_L
+      Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb1_L Directions/Thumb1_L
+      Forward YZ/Thumb1_L Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb1_L Directions/Thumb1_L
+      Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb1_L Directions/Thumb1_L
+      Up YZ/Thumb1_L Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb2_L Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb2_L Directions/Thumb2_L
+      Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb2_L Directions/Thumb2_L
+      Forward YZ/Thumb2_L Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb2_L Directions/Thumb2_L
+      Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb2_L Directions/Thumb2_L
+      Up YZ/Thumb2_L Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger1_L
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger1_L
+      Directions/IndexFinger1_L Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger1_L
+      Directions/IndexFinger1_L Forward YZ/IndexFinger1_L Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger1_L
+      Directions/IndexFinger1_L Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger1_L
+      Directions/IndexFinger1_L Up YZ/IndexFinger1_L Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger2_L
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger2_L
+      Directions/IndexFinger2_L Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger2_L
+      Directions/IndexFinger2_L Forward YZ/IndexFinger2_L Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger2_L
+      Directions/IndexFinger2_L Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger2_L
+      Directions/IndexFinger2_L Up YZ/IndexFinger2_L Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger3_L
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger3_L
+      Directions/IndexFinger3_L Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger3_L
+      Directions/IndexFinger3_L Forward YZ/IndexFinger3_L Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger3_L
+      Directions/IndexFinger3_L Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger3_L
+      Directions/IndexFinger3_L Up YZ/IndexFinger3_L Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger1_L
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger1_L
+      Directions/RingFinger1_L Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger1_L
+      Directions/RingFinger1_L Forward YZ/RingFinger1_L Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger1_L
+      Directions/RingFinger1_L Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger1_L
+      Directions/RingFinger1_L Up YZ/RingFinger1_L Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger2_L
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger2_L
+      Directions/RingFinger2_L Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger2_L
+      Directions/RingFinger2_L Forward YZ/RingFinger2_L Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger2_L
+      Directions/RingFinger2_L Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger2_L
+      Directions/RingFinger2_L Up YZ/RingFinger2_L Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger3_L
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger3_L
+      Directions/RingFinger3_L Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger3_L
+      Directions/RingFinger3_L Forward YZ/RingFinger3_L Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger3_L
+      Directions/RingFinger3_L Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger3_L
+      Directions/RingFinger3_L Up YZ/RingFinger3_L Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb0_R Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb0_R Directions/Thumb0_R
+      Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb0_R Directions/Thumb0_R
+      Forward YZ/Thumb0_R Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb0_R Directions/Thumb0_R
+      Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb0_R Directions/Thumb0_R
+      Up YZ/Thumb0_R Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb1_R Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb1_R Directions/Thumb1_R
+      Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb1_R Directions/Thumb1_R
+      Forward YZ/Thumb1_R Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb1_R Directions/Thumb1_R
+      Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb1_R Directions/Thumb1_R
+      Up YZ/Thumb1_R Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb2_R Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb2_R Directions/Thumb2_R
+      Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb2_R Directions/Thumb2_R
+      Forward YZ/Thumb2_R Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb2_R Directions/Thumb2_R
+      Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/Thumb2_R Directions/Thumb2_R
+      Up YZ/Thumb2_R Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger1_R
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger1_R
+      Directions/IndexFinger1_R Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger1_R
+      Directions/IndexFinger1_R Forward YZ/IndexFinger1_R Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger1_R
+      Directions/IndexFinger1_R Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger1_R
+      Directions/IndexFinger1_R Up YZ/IndexFinger1_R Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger2_R
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger2_R
+      Directions/IndexFinger2_R Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger2_R
+      Directions/IndexFinger2_R Forward YZ/IndexFinger2_R Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger2_R
+      Directions/IndexFinger2_R Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger2_R
+      Directions/IndexFinger2_R Up YZ/IndexFinger2_R Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger3_R
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger3_R
+      Directions/IndexFinger3_R Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger3_R
+      Directions/IndexFinger3_R Forward YZ/IndexFinger3_R Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger3_R
+      Directions/IndexFinger3_R Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/IndexFinger3_R
+      Directions/IndexFinger3_R Up YZ/IndexFinger3_R Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger1_R
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger1_R
+      Directions/RingFinger1_R Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger1_R
+      Directions/RingFinger1_R Forward YZ/RingFinger1_R Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger1_R
+      Directions/RingFinger1_R Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger1_R
+      Directions/RingFinger1_R Up YZ/RingFinger1_R Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger2_R
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger2_R
+      Directions/RingFinger2_R Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger2_R
+      Directions/RingFinger2_R Forward YZ/RingFinger2_R Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger2_R
+      Directions/RingFinger2_R Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger2_R
+      Directions/RingFinger2_R Up YZ/RingFinger2_R Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger3_R
+      Directions
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger3_R
+      Directions/RingFinger3_R Forward YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger3_R
+      Directions/RingFinger3_R Forward YZ/RingFinger3_R Forward X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger3_R
+      Directions/RingFinger3_R Up YZ
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Follow/CarbonCopy
+      Mimic Freeze/CarbonCopy Rotater/CarbonCopy Mirror Constraints/RingFinger3_R
+      Directions/RingFinger3_R Up YZ/RingFinger3_R Up X
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Release
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Reset
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Reset/Hip Y Reset
+      Target
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Mimic Reset/Mirror
+      Hip Y Reset Target
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Hips Scale Adjust
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Hips Scale Adjust/Hips
+      Y Lock
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Hips Scale Adjust/Hips
+      Y Lock/Hips XZ Lock
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Hips Scale Adjust/Hips
+      Y Lock/Hips XZ Lock/Hips Scaled Target
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Ball Container
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Ball Container/CarbonCopy
+      Ball Constraint
+    m_Weight: 1
+  - m_Path: CCopy World Space/CarbonCopy Container/CarbonCopy Ball Container/CarbonCopy
+      Ball Target
+    m_Weight: 1
